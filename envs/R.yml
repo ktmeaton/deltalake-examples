@@ -1,0 +1,6 @@
+name: deltalake-R
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - conda-forge::r-sparklyr=1.8.6
